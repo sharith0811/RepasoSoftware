@@ -23,10 +23,7 @@ public class Biblioteca {
 
     public void agregarBibliotecario(Bibliotecario bibliotecario){
         bibliotecarios.add(bibliotecario);
-    }
-        
-    
-
-    
+    }    
+       
 
 }
